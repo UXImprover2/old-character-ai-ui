@@ -1,6 +1,6 @@
-# 🚀 Character.AI Museum
+# 🚀 Old Character.AI-ui 
 
-Welcome to the **Character.AI Museum** — a nostalgic, static archive of the old Character.AI interface preserved for fans, explorers, and developers who want to remember the original experience.
+Welcome to the **Old Character.AI-ui** — a nostalgic, static archive of the old Character.AI interface preserved for fans, explorers, and developers who want to remember the original experience.
 
 ---
 
