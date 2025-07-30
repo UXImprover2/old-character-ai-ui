@@ -10,12 +10,12 @@ This archive contains the following static HTML pages that replicate the core se
 
 | Page           | Description                               |
 | -------------- | --------------------------------------- |
-| `index.html`   | Home page — main landing and introduction |
-| `profile.html` | User profile page with basic info       |
-| `chat.html`    | Chat interface for interacting with characters |
-| `chats.html`   | List of all saved chats                  |
-| `create.html`  | Create a new character page              |
-| `search.html`  | Search functionality to find characters |
+| `https://oldcharacterai.netlify.app/`   | Home page — main landing and introduction |
+| `https://oldcharacterai.netlify.app/profile` | User profile page with basic info       |
+| `https://oldcharacterai.netlify.app/chat`    | Chat interface for interacting with characters |
+| `https://oldcharacterai.netlify.app/chats`   | List of all saved chats                  |
+| `https://oldcharacterai.netlify.app/create.html`  | Create a new character page              |
+| `https://oldcharacterai.netlify.app/search.html`  | Search functionality to find characters |
 
 ---
 
