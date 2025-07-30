@@ -71,4 +71,4 @@ Keep the old Character.AI spirit alive! Feel free to explore, modify, and share 
 ---
 
 ### 📎 Hosted here:  
-[https://oldcharacterai.netlify.app] (https://oldcharacterai.netlify.app/)
+https://oldcharacterai.netlify.app
